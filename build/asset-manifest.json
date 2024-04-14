@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a639a481.css",
+    "main.js": "/static/js/main.8598e668.js",
+    "static/media/travel.jpg": "/static/media/travel.de594cadd04adafdd70a.jpg",
+    "static/media/resume.pdf": "/static/media/resume.36445891569e464578ea.pdf",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/tictactoe.jpg": "/static/media/tictactoe.24181de3544f93cf4d7e.jpg",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/meal.jpg": "/static/media/meal.929a7276b5b7a74d76a1.jpg",
+    "static/media/website.png": "/static/media/website.a861439256ae8c5b6b43.png",
+    "index.html": "/index.html",
+    "main.a639a481.css.map": "/static/css/main.a639a481.css.map",
+    "main.8598e668.js.map": "/static/js/main.8598e668.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a639a481.css",
+    "static/js/main.8598e668.js"
+  ]
+}
